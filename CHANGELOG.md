@@ -1,5 +1,11 @@
 # @elsikora/dapigate-sdk-node
 
+## 1.0.1
+
+### Patch Changes
+
+- cc35c9b: Test
+
 ## 1.1.0
 
 ### Minor Changes
