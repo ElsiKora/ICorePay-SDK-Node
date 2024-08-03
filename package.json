@@ -42,6 +42,7 @@
     "lint": "eslint ./src --ext .ts,.tsx,.json,.yml --fix && eslint ./*.json --fix",
     "patch": "npx changeset",
     "patch:release": "npx changeset version",
+    "prebuild": "rimraf dist",
     "release": "npm install && npm run build && changeset publish"
   },
   "types": "dist/index.d.ts"
