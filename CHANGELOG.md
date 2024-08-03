@@ -1,5 +1,11 @@
 # @elsikora/dapigate-sdk-node
 
+## 1.0.2
+
+### Patch Changes
+
+- 155061b: fix(config): update base API URL
+
 ## 1.0.1
 
 ### Patch Changes
